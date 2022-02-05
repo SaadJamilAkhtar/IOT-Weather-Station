@@ -29,3 +29,6 @@ ___
 ### Feed.csv
 feed.csv represent a real output of v2 sketch.
 
+
+### Link to thingspeak [Channel Here](https://thingspeak.com/channels/1623014)
+
