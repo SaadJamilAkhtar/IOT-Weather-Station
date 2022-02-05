@@ -24,3 +24,8 @@ v2 sketch support getting data from DHT11 sensor and making an api call to weath
 | abc       | 35%      | 29          | Cloudy  |
 | etc       | etc      | etc         | etc     |
 
+___
+
+### Feed.csv
+feed.csv represent a real output of v2 sketch.
+
