@@ -26,10 +26,10 @@ v2 sketch support getting data from DHT11 sensor and making an api call to weath
 
 ___
 
-## Jupiter Notebook:
+## Jupyter Notebook:
 Provides an predictive analysis of islamabad's weather data by checking correlation between different factors affecting weather and using different ML models.
 ### Note:
-islamabad.csv is required to run jupiter notebook.
+islamabad.csv is required to run jupyter notebook.
 
 ## Feed.csv
 feed.csv represent a real output of v2 sketch.
