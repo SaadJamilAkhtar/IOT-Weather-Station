@@ -35,7 +35,9 @@ islamabad.csv is required to run jupyter notebook.
 feed.csv represent a real output of v2 sketch.
 
 ## IoT Weather Station.pbix
-A descriptive analysis of data obtained using sketch v2
+A descriptive analysis of data obtained using sketch v2  
+
+![Descriptive Analysis](https://github.com/MuhammadSaadJamil/IOT-Weather-Station/blob/master/Power%20Bi%20output.png?raw=true)
 
 ---
 ### Link to thingspeak [Channel Here](https://thingspeak.com/channels/1623014)
